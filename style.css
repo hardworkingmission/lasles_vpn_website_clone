@@ -7,7 +7,7 @@
 }
 .btn--signup {
   display: inline-block;
-  padding: 0.5em 2.5em;
+  padding: 0.5em 2em !important;
   color: #f53838 !important;
   font-weight: bold;
   border: 1px solid #f53838;
